@@ -1,4 +1,8 @@
-"""Contains functions to draw numbers and move the turtle."""
+"""Contains functions to draw numbers and move the turtle.
+
+@author: Pranav Gundale
+Date: 31-12-2023
+"""
 
 import turtle
 
