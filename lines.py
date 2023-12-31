@@ -1,4 +1,8 @@
-""" Contains data required to draw numbers."""
+""" Contains data required to draw numbers.
+
+@author: Pranav Gundale
+Date: 31-12-2023
+"""
 
 lines_1 = [False, True, True, False, False, False, False]
 lines_2 = [True, True, False, True, True, False, True]
